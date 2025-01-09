@@ -1,0 +1,1 @@
+print("Gujurly " *5)
